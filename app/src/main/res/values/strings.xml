@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+
+    <string name="lang_python">Python</string>
+    <string name="desc_python">General-purpose; data science, scripting, automation.</string>
+
+    <string name="lang_java">Java</string>
+    <string name="desc_java">OOP; Android, enterprise backend, cross-platform apps.</string>
+
+    <string name="lang_kotlin">Kotlin</string>
+    <string name="desc_kotlin">Modern JVM language; recommended for Android.</string>
+
+    <string name="lang_javascript">JavaScript</string>
+    <string name="desc_javascript">Web language; frontend and backend (Node.js).</string>
+
+    <string name="lang_cplusplus">C++</string>
+    <string name="desc_cplusplus">High-performance; systems, games, embedded.</string>
+
+    <string name="lang_csharp">C#</string>
+    <string name="desc_csharp">.NET language; apps, web, Unity games.</string>
+
+    <string name="lang_swift">Swift</string>
+    <string name="desc_swift">Apple platform language; iOS/macOS development.</string>
+
+    <string name="lang_flutter">Flutter</string>
+    <string name="desc_flutter">Cross-platform UI toolkit (Dart) for iOS, Android, web.</string>
+
+    <string name="lang_rust">Rust</string>
+    <string name="desc_rust">Memory-safe systems programming; performance + safety.</string>
+
+    <string name="lang_sql">SQL</string>
+    <string name="desc_sql">Query language for relational databases.</string>
+</resources>
