@@ -78,7 +78,7 @@ fun HomeScreen(navController: NavController) {
                 onClick = { navController.navigate(Routes.CONTACT) },
                 modifier = Modifier.fillMaxWidth()
             ) {
-                Text("Go to Contact")
+                Text("Contact")
             }
         }
     }
